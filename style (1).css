@@ -1,0 +1,25 @@
+div{
+    width: 400px;
+    height: 600px;
+    background-color:crimson;
+
+    padding:20px;
+    border-radius: 10px;
+}
+
+img{
+    width:400px;
+    height:300px;
+    border-radius: 10px;
+}
+
+h1{
+    color:azure;
+}
+
+button{
+    width: 100px;
+    height: 25
+px;
+    border-radius: 500px;
+}
